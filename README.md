@@ -17,11 +17,15 @@
 
 ### 系统信息
 
-![image-20210824172311647](https://github.com/xjhqre/windows10_theme/blob/main/pictures/3.png)
+<div align="center">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="60%">
+</div>
 
 ### 开始菜单
 
-![image-20210824172333715](https://github.com/xjhqre/windows10_theme/blob/main/pictures/4.png)
+<div align="center">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="80%">
+</div>
 
 
 
