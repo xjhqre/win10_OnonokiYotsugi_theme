@@ -4,7 +4,7 @@
 
 ### 桌面
 
-![image-20210824172127689](D:\缓存\typora图片\image-20210824172127689.png)
+![image-20210824172127689](https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png)
 
 ### 文件夹
 
