@@ -5,26 +5,25 @@
 ### 桌面
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="50%"; left=200px>
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="50%"; left:200px>
 </div>
-
 
 ### 文件夹
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/2.png" width="50%"; left=300px>
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/2.png" width="50%"; left:300px>
 </div>
 
 ### 系统信息
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/3.png" width="50%"; left=400px>
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/3.png" width="50%"; left:400px>
 </div>
 
 ### 开始菜单
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/4.png" width="50%"; left=500px>
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/4.png" width="50%"; left:500px>
 </div>
 
 
