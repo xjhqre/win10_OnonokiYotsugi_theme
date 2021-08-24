@@ -11,7 +11,9 @@
 
 ### 文件夹
 
-![image-20210824172221502](https://github.com/xjhqre/windows10_theme/blob/main/pictures/2.png)
+<div align="center">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/2.png" width="50%">
+</div>
 
 ### 系统信息
 
