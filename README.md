@@ -18,13 +18,13 @@
 ### 系统信息
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="60%">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/3.png" width="60%">
 </div>
 
 ### 开始菜单
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="80%">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/4.png" width="80%">
 </div>
 
 
