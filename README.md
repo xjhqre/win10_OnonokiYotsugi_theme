@@ -5,7 +5,7 @@
 ### 桌面
 
 <div align="center">
-	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="50%"; left:200px>
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="50%"; float:left>
 </div>
 
 ### 文件夹
