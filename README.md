@@ -10,19 +10,19 @@
 
 ### 文件夹
 
-<div align="center">
+<div align="left">
 	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/2.png" width="50%">
 </div>
 
 ### 系统信息
 
-<div align="center">
+<div align="left">
 	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/3.png" width="50%">
 </div>
 
 ### 开始菜单
 
-<div align="center">
+<div align="left">
 	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/4.png" width="50%">
 </div>
 
