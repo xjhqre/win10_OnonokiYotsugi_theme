@@ -4,7 +4,10 @@
 
 ### 桌面
 
-[1](https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png!/scale/50)
+<div align="center">
+	<img src="https://github.com/xjhqre/windows10_theme/blob/main/pictures/1.png" width="50%">
+</div>
+
 
 ### 文件夹
 
