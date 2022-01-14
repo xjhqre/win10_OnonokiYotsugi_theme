@@ -40,5 +40,7 @@
 
 将压缩包中的文件解压到 C:\Windows\Resources 目录下，然后在桌面右键 -> 个性化 -> 主题点击使用即可
 
+开始菜单使用startlsback修改
+
 具体的win10主题破解请参考[致美化](https://zhutix.com/)网站
 
